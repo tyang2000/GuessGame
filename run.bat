@@ -1,0 +1,1 @@
+java -cp target\GuessGame-1.0.jar -Dupperbound=100 -Dlowerbound=1 com.cp.app.GuessGame
